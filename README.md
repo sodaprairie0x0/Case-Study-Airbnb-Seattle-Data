@@ -24,11 +24,11 @@ This project analysed Airbnb's Seattle data in 2016, to answer below questions:
 
 ## File Descriptions <a name="files"></a>
 
-**Detailed analysis work including data wrangling, feature engineering and model training is in [*this notebook*](https://github.com/BambooPalace/Case-Study-Airbnb-Seattle-Data/blob/master/Airbnb%20Dataset%20Analysis-V2.ipynb), following CRISP-DM procedure.** <br>
+**Detailed analysis work including data wrangling, feature engineering and model training is in [*this notebook*](https://nbviewer.jupyter.org/github/BambooPalace/Case-Study-Airbnb-Seattle-Data/blob/master/Airbnb%20Dataset%20Analysis-V2.ipynb), following CRISP-DM procedure.** <br>
 
 The <a href='https://github.com/BambooPalace/UdacityDataScienceNanoDegree/tree/master/seattle%20airbnb%20dataset'>
     datasets</a> are provided by Airbnb through [Kaggle](https://www.kaggle.com/airbnb/seattle/data), as below:<br>
-- Listings, including full descriptions and average review score
+- Listings, including full descriptions(**92 features!**) and average review score
 - Reviews, including unique id for each reviewer and detailed comments
 - Calendar, including listing id and the price and availability for that day
 Some tips from Udacity's data science course are also included <a href='https://github.com/BambooPalace/UdacityDataScienceNanoDegree/tree/master/Course2-Intro%20to%20DataScience'> here</a> in the same repository. 
